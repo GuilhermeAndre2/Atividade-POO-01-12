@@ -27,7 +27,7 @@ namespace Aula_2___POO
             int vidaDoJogador2 = Player2.defesa(Player2.Ataque1());
 
             if(vidaDoJogador2 <= 0){
-                Console.WriteLine("Player2 Perdeu !!");
+                Console.WriteLine("Player2 Perdeu !");
             }else{
                 Console.WriteLine($"Vida do Player 2 após ataque = {Player2.vida}%");   
             } 
