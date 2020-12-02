@@ -1,0 +1,13 @@
+C:\Users\guilh\Desktop\Aula 2 - POO\bin\Debug\netcoreapp3.1\Aula 2 - POO.exe
+C:\Users\guilh\Desktop\Aula 2 - POO\bin\Debug\netcoreapp3.1\Aula 2 - POO.deps.json
+C:\Users\guilh\Desktop\Aula 2 - POO\bin\Debug\netcoreapp3.1\Aula 2 - POO.runtimeconfig.json
+C:\Users\guilh\Desktop\Aula 2 - POO\bin\Debug\netcoreapp3.1\Aula 2 - POO.runtimeconfig.dev.json
+C:\Users\guilh\Desktop\Aula 2 - POO\bin\Debug\netcoreapp3.1\Aula 2 - POO.dll
+C:\Users\guilh\Desktop\Aula 2 - POO\bin\Debug\netcoreapp3.1\Aula 2 - POO.pdb
+C:\Users\guilh\Desktop\Aula 2 - POO\obj\Debug\netcoreapp3.1\Aula 2 - POO.csprojAssemblyReference.cache
+C:\Users\guilh\Desktop\Aula 2 - POO\obj\Debug\netcoreapp3.1\Aula 2 - POO.AssemblyInfoInputs.cache
+C:\Users\guilh\Desktop\Aula 2 - POO\obj\Debug\netcoreapp3.1\Aula 2 - POO.AssemblyInfo.cs
+C:\Users\guilh\Desktop\Aula 2 - POO\obj\Debug\netcoreapp3.1\Aula 2 - POO.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Desktop\Aula 2 - POO\obj\Debug\netcoreapp3.1\Aula 2 - POO.dll
+C:\Users\guilh\Desktop\Aula 2 - POO\obj\Debug\netcoreapp3.1\Aula 2 - POO.pdb
+C:\Users\guilh\Desktop\Aula 2 - POO\obj\Debug\netcoreapp3.1\Aula 2 - POO.genruntimeconfig.cache
